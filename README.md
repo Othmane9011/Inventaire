@@ -1,6 +1,6 @@
 # Supermarket Inventory Management System
 
-This project leverages OpenAI's GPT-3.5 and image processing capabilities to manage supermarket inventories based on pictures and live videos. The system aims to streamline the inventory management process by automatically recognizing products, counting them, and updating the inventory in real-time.
+This project leverages OpenAI's GPT-4 and image processing capabilities to manage supermarket inventories based on pictures and live videos. The system aims to streamline the inventory management process by automatically recognizing products, counting them, and updating the inventory in real-time.
 
 ## Features
 
